@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-Draft-yellow)
+
 # ags_FoY
 9 Verb FoA/FoY template for Adventure Game Studio
 

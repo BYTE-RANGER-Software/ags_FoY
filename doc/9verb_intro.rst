@@ -3,7 +3,7 @@
 Introduction
 ============
 
-*Tumbleweed Verbs*
+*FoY Verbs*
 is a template that allows you to recreate those classic SCUMM games,
 as well as the modern iteration Thimbleweed Park(tm) by Terrible Toybox, Inc.
 

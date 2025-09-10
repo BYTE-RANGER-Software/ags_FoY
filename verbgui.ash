@@ -1,4 +1,4 @@
-// Tumbleweed Verbs
+// FoY Verbs
 // Version: 1.4
 //
 // Main author: 

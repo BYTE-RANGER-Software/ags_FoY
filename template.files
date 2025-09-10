@@ -1,4 +1,4 @@
-# Tumbleweed template include/exclude list
+# FoY template include/exclude list
 
 Game.agf
 *.asc
@@ -20,7 +20,7 @@ Speech/
 template.ico
 template.txt
 template.files
-tumbleweedverbs.pdf
+FoYverbs.pdf
 
 # Ignore generated folders, user settings and backups
 !_Debug/

@@ -39,8 +39,8 @@
       <GUIAlphaStyle>MultiplyTranslucenceSrcBlend</GUIAlphaStyle>
       <GUIDAsString>{e215320e-251a-40d8-962b-0a348e34ea20}</GUIDAsString>
       <GameFPS>40</GameFPS>
-      <GameFileName>ags_tumbleweed</GameFileName>
-      <GameName>Tumbleweed</GameName>
+      <GameFileName>ags_FoY</GameFileName>
+      <GameName>FoY</GameName>
       <GameTextEncoding>utf-8</GameTextEncoding>
       <Genre>Adventure</Genre>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
@@ -63,7 +63,7 @@
       <RoomTransition>FadeOutAndIn</RoomTransition>
       <RunGameLoopsWhileDialogOptionsDisplayed>True</RunGameLoopsWhileDialogOptionsDisplayed>
       <SaveGameFileExtension />
-      <SaveGameFolderName>Tumbleweed</SaveGameFolderName>
+      <SaveGameFolderName>FoY</SaveGameFolderName>
       <SaveScreenshots>True</SaveScreenshots>
       <ScaleCharacterSpriteOffsets>True</ScaleCharacterSpriteOffsets>
       <ScaleMovementSpeedWithMaskResolution>False</ScaleMovementSpeedWithMaskResolution>
@@ -109,7 +109,7 @@
       <SoundCacheSize>32</SoundCacheSize>
       <SpriteCacheSize>128</SpriteCacheSize>
       <TextureCacheSize>128</TextureCacheSize>
-      <TitleText xml:space="preserve">Tumbleweed Setup</TitleText>
+      <TitleText xml:space="preserve">FoY Setup</TitleText>
       <TouchToMouseEmulation>OneFinger</TouchToMouseEmulation>
       <TouchToMouseMotionMode>Direct</TouchToMouseMotionMode>
       <Translation />
@@ -2951,7 +2951,7 @@ stop
         <AutoOutlineThickness>1</AutoOutlineThickness>
         <ID>0</ID>
         <LineSpacing>0</LineSpacing>
-        <Name>TumbleText</Name>
+        <Name>FoYText</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>None</OutlineStyle>
         <PointSize>9</PointSize>
@@ -2965,7 +2965,7 @@ stop
         <AutoOutlineThickness>1</AutoOutlineThickness>
         <ID>1</ID>
         <LineSpacing>0</LineSpacing>
-        <Name>TumbleSpeech</Name>
+        <Name>FoYSpeech</Name>
         <OutlineFont>2</OutlineFont>
         <OutlineStyle>UseOutlineFont</OutlineStyle>
         <PointSize>10</PointSize>
@@ -2979,7 +2979,7 @@ stop
         <AutoOutlineThickness>1</AutoOutlineThickness>
         <ID>2</ID>
         <LineSpacing>0</LineSpacing>
-        <Name>TumbleOutlineSpeech</Name>
+        <Name>FoYOutlineSpeech</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>None</OutlineStyle>
         <PointSize>10</PointSize>
@@ -2993,7 +2993,7 @@ stop
         <AutoOutlineThickness>1</AutoOutlineThickness>
         <ID>3</ID>
         <LineSpacing>0</LineSpacing>
-        <Name>TumbleTiny</Name>
+        <Name>FoYTiny</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>Automatic</OutlineStyle>
         <PointSize>9</PointSize>
@@ -3007,7 +3007,7 @@ stop
         <AutoOutlineThickness>1</AutoOutlineThickness>
         <ID>4</ID>
         <LineSpacing>0</LineSpacing>
-        <Name>TumbleTextOut</Name>
+        <Name>FoYTextOut</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>Automatic</OutlineStyle>
         <PointSize>9</PointSize>
@@ -7518,7 +7518,7 @@ stop
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders>
-          <ScriptFolder Name="Tumbleweed">
+          <ScriptFolder Name="FoY">
             <SubFolders />
             <ScriptAndHeaders>
               <ScriptAndHeader>
@@ -7584,7 +7584,7 @@ stop
                 <ScriptAndHeader_Script>
                   <Script>
                     <FileName>VerbGui.asc</FileName>
-                    <Name>Tumbleweed Verbs</Name>
+                    <Name>FoY Verbs</Name>
                     <Description>GUI functions</Description>
                     <Author>Authors named in header file</Author>
                     <Version>1.4.1</Version>

@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=TumbleweedVerbs
+set SPHINXPROJ=FoYVerbs
 
 if "%1" == "" goto help
 

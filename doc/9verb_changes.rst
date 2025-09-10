@@ -2,7 +2,7 @@
 
 Changes
 =======
-What has changed between 9-Verbs MI-Style and Tumbleweed Verbs?
+What has changed between 9-Verbs MI-Style and FoY Verbs?
 Continue reading if you plan to upgrade your project to this template.
 
 #. 	All commands are grouped inside structs to provide some sort of namespace.
@@ -13,7 +13,7 @@ Continue reading if you plan to upgrade your project to this template.
 
 		if ( MovePlayer(160,160) == 1 ) player.Say("I'm there!");
 
-	In Tumbleweed Verbs you write it like this:
+	In FoY Verbs you write it like this:
 
 	::
 

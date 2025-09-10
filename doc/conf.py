@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Tumbleweed Verbs documentation build configuration file, created by
+# FoY Verbs documentation build configuration file, created by
 # sphinx-quickstart on Wed May 17 10:45:35 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tumbleweed Verbs'
+project = u'FoY Verbs'
 copyright = u'2018, AGS-Community'
 author = u'AGS-Community'
 
@@ -99,7 +99,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TumbleweedVerbsdoc'
+htmlhelp_basename = 'FoYVerbsdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -126,7 +126,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TumbleweedVerbs.tex', u'Tumbleweed Verbs Documentation',
+    (master_doc, 'FoYVerbs.tex', u'FoY Verbs Documentation',
      u'AGS-Community', 'manual'),
 ]
 
@@ -136,7 +136,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'tumbleweedverbs', u'Tumbleweed Verbs Documentation',
+    (master_doc, 'FoYverbs', u'FoY Verbs Documentation',
      [author], 1)
 ]
 
@@ -147,14 +147,14 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TumbleweedVerbs', u'Tumbleweed Verbs Documentation',
-     author, 'TumbleweedVerbs', 'One line description of project.',
+    (master_doc, 'FoYVerbs', u'FoY Verbs Documentation',
+     author, 'FoYVerbs', 'One line description of project.',
      'Miscellaneous'),
 ]
 
 # -- Options for PDF output -------------------------------------------
 
-pdf_documents = [('index', u'tumbleweedverbs', u'Tumbleweed Verbs Documentation', u'AGS-Community')]
+pdf_documents = [('index', u'FoYverbs', u'FoY Verbs Documentation', u'AGS-Community')]
 # (source start file, target name, title, author)
 # A comma-separated list of custom stylesheets. Example:
 # Grouping the document tree into PDF files. List of tuples

@@ -30,7 +30,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.doctest','rst2pdf.pdfbuilder']
+extensions = ['sphinx.ext.doctest','rst2pdf.pdfbuilder','sphinxcontrib.htmlhelp']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,8 +46,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'FoY Verbs'
-copyright = u'2018, AGS-Community'
-author = u'AGS-Community'
+copyright = u'2025, BYTE RANGER Software'
+author = u'Erek Starwind'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -127,7 +127,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'FoYVerbs.tex', u'FoY Verbs Documentation',
-     u'AGS-Community', 'manual'),
+     u'Erek Starwind', 'manual'),
 ]
 
 
@@ -154,7 +154,7 @@ texinfo_documents = [
 
 # -- Options for PDF output -------------------------------------------
 
-pdf_documents = [('index', u'FoYverbs', u'FoY Verbs Documentation', u'AGS-Community')]
+pdf_documents = [('index', u'FoYverbs', u'FoY Verbs Documentation', u'Erek Starwind')]
 # (source start file, target name, title, author)
 # A comma-separated list of custom stylesheets. Example:
 # Grouping the document tree into PDF files. List of tuples
